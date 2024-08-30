@@ -1,3 +1,3 @@
 # ring-buffer-js
 
-### Ring buffer implementation in typescript
+### Ring buffer implementation in javascript
